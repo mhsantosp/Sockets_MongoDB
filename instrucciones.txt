@@ -1,0 +1,6 @@
+1. Registre la persona 
+2. Establezca grupos o salas chat 
+3. los usuarios se puedan unir a esa conversación y los mensajes 
+los pueden leer todos los que estan en el grupo.
+4. Las conversaciones se guardan en mongoDB 
+5. se puedan enviar imagenes.
